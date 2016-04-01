@@ -1,1 +1,2 @@
 # ArtOfWarIRCBot
+# Posts things.
